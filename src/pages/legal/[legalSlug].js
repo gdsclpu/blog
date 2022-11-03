@@ -10,22 +10,6 @@ import Navbar from '@/components/navbar/Navbar';
 import Footer from '@/components/footer/Footer';
 
 const Legal = ({ data, legalSlug }) => {
-  let title, description, image;
-
-  if (legalSlug === 'privacy-policy') {
-    title = siteConfig.seo.pages.privacy.title;
-    description = siteConfig.seo.pages.privacy.description;
-    image = siteConfig.seo.pages.privacy.image;
-  } else if (legalSlug === 'cookie-policy') {
-    title = siteConfig.seo.pages.cookie.title;
-    description = siteConfig.seo.pages.cookie.description;
-    image = siteConfig.seo.pages.cookie.image;
-  } else {
-    title = siteConfig.seo.pages.terms.title;
-    description = siteConfig.seo.pages.terms.description;
-    image = siteConfig.seo.pages.terms.image;
-  }
-
   return (
     <>
       <SEO
