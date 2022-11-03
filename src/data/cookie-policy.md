@@ -1,8 +1,8 @@
-Effective as of: 2022-06-19 07:36:45
+Effective as of: 2022-11-03 10:40:45
 
 # Cookie Policy
 
-In this Cookie Policy we will provide you with detailed information on how itsrakesh - blog (hereinafter - the "we" or "our"), shall undertake to ensure the security of personal information and the protection of rights of the visitors and users of the websites (hereinafter - the "Visitors", "You") while you use our websites including but not limited to https://blog.itsrakesh.co (hereinafter - the "Site") and the content on it.
+In this Cookie Policy we will provide you with detailed information on how GDSC LPU - blog (hereinafter - the "we" or "our"), shall undertake to ensure the security of personal information and the protection of rights of the visitors and users of the websites (hereinafter - the "Visitors", "You") while you use our websites including but not limited to https://blog.gdsclpu.live (hereinafter - the "Site") and the content on it.
 
 ## 1. What is a cookie?
 

@@ -29,10 +29,10 @@ const Legal = ({ data, legalSlug }) => {
   return (
     <>
       <SEO
-        title={title}
-        description={description}
-        image={image}
-        altText={title}
+        title={siteConfig.seo.pages.cookie.title}
+        description={siteConfig.seo.pages.cookie.description}
+        image={siteConfig.seo.pages.cookie.image}
+        altText={siteConfig.seo.pages.cookie.title}
         canonical={`${process.env.NEXT_PUBLIC_SITE_URL}/legal/${legalSlug}`}
         url={`${process.env.NEXT_PUBLIC_SITE_URL}/legal/${legalSlug}`}
       />
@@ -45,12 +45,7 @@ const Legal = ({ data, legalSlug }) => {
           },
           {
             position: 2,
-            name:
-              legalSlug === 'privacy-policy'
-                ? 'Privacy Policy'
-                : legalSlug === 'cookie-policy'
-                ? 'Cookie Policy'
-                : 'Terms & Conditions',
+            name: 'Cookie Policy',
             item: `${process.env.NEXT_PUBLIC_SITE_URL}/legal/${legalSlug}`
           }
         ]}
