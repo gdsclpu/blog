@@ -93,14 +93,14 @@ const SearchPage = ({
         loading={loading}
         error={variableError}
       />
-      <Box my={20} mx={'auto'}>
+      {/* <Box my={20} mx={'auto'}>
         <AdSense
           style={{ display: 'block' }}
           adFormat={'fluid'}
           adSlot={siteConfig.adsense.slots.inFeed}
           data-ad-layout-key={'-f9+52+6z-e1+5b'}
         />
-      </Box>
+      </Box> */}
     </>
   );
 };

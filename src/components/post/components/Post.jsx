@@ -76,12 +76,12 @@ const Post = ({ post }) => {
   return (
     <>
       {/* Adsense Page top Ad */}
-      <Box my={10}>
+      {/* <Box my={10}>
         <AdSense
           style={{ display: 'inline-block', width: '100%', height: '90px' }}
           adSlot={siteConfig.adsense.slots.pageTop}
         />
-      </Box>
+      </Box> */}
 
       {/* Breadcrumb */}
       <HStack mt={8} ml={6}>
