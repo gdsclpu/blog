@@ -6,7 +6,7 @@ const siteConfig = {
     description:
       'Browse programming tutorials and articles written by GDSC - LPU team. Learn Web Development, Blockchain, Web3, AI/ML, Firebase and Google Cloud.',
     image:
-      'https://ik.imagekit.io/itsrakesh/Blog/itsrakesh_-_blog_r0SAC1__p.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350838485',
+      'https://res.cloudinary.com/dckfb8ri8/image/upload/v1668099221/Blog/landing_og_sq4ndv.jpg',
     altText: 'GDSC LPU - blog',
     ogType: 'website',
     monetizationTag: '',
@@ -24,26 +24,26 @@ const siteConfig = {
         description:
           'Read articles on web development, web3, blockchain, design, and more.',
         image:
-          'https://ik.imagekit.io/itsrakesh/Blog/articles_QqdeLjlbl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350838382'
+          'https://res.cloudinary.com/dckfb8ri8/image/upload/v1668099221/Blog/articles_og_j1kfet.jpg'
       },
       snippets: {
         title: 'Snippets | GDSC LPU - blog',
         description:
           'Snippets are code samples and quick tips that I have written. Explore and share them.',
         image:
-          'https://ik.imagekit.io/itsrakesh/Blog/snippets_ma1o5jx8Z.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350839459'
+          'https://res.cloudinary.com/dckfb8ri8/image/upload/v1668099221/Blog/snippets_og_hmcdf2.jpg'
       },
       categories: {
         title: 'Categories | GDSC LPU - blog',
         description: 'Browse different categories.',
         image:
-          'https://ik.imagekit.io/itsrakesh/Blog/categories_u4RkWWNIi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350838394'
+          'https://res.cloudinary.com/dckfb8ri8/image/upload/v1668099220/Blog/categories_og_eq5occ.jpg'
       },
       tags: {
         title: 'Tags | GDSC LPU - blog',
         description: 'Explore all the tags.',
         image:
-          'https://ik.imagekit.io/itsrakesh/Blog/tags_kBWiaEWuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350842330'
+          'https://res.cloudinary.com/dckfb8ri8/image/upload/v1668099221/Blog/tags_og_ikj2yj.jpg'
       },
       // privacy: {
       //   title: 'Privacy Policy | GDSC LPU - blog',
@@ -55,7 +55,7 @@ const siteConfig = {
         title: 'Cookie Policy | GDSC LPU - blog',
         description: 'This page contains GDSC LPU - blog cookie policies.',
         image:
-          'https://ik.imagekit.io/itsrakesh/Blog/cookie_policy_ulfXI9cMG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656351873708'
+          'https://res.cloudinary.com/dckfb8ri8/image/upload/v1668099221/Blog/landing_og_sq4ndv.jpg'
       }
       // terms: {
       //   title: 'Terms & Conditions | GDSC LPU - blog',
@@ -94,7 +94,7 @@ const siteConfig = {
   urls: {
     socials: {
       twitter: 'https://twitter.com/gdsclpu',
-      linkedin: 'https://www.linkedin.com/in/gdsclpu',
+      linkedin: 'https://www.linkedin.com/company/gdsclpu',
       github: 'https://github.com/gdsclpu',
       instagram: 'https://www.instagram.com/gdsclpu',
       youtube: 'https://www.youtube.com/c/GDSCLPU'
