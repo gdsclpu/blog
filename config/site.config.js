@@ -102,7 +102,7 @@ const siteConfig = {
     about:
       'https://gdsc.community.dev/lovely-professional-university-jalandhar/',
     status: 'https://status.gdsclpu.live',
-    newsletter: 'https://newsletter.gdsclpu.live',
+    newsletter: 'https://gdsclpu.substack.com/',
     kofi: ''
   },
   adsense: {
