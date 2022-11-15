@@ -22,14 +22,14 @@ const siteConfig = {
       articles: {
         title: 'Articles | GDSC LPU - blog',
         description:
-          'Read articles on web development, web3, blockchain, design, and more.',
+          'Google Developer Student Club Lpu help students to learn Web development, App development, AI&ML, Cyber Security, IOS, and other google technologies. Learn in community and grow together with GDSC LPU.',
         image:
           'https://res.cloudinary.com/dckfb8ri8/image/upload/v1668099221/Blog/articles_og_j1kfet.jpg'
       },
       snippets: {
         title: 'Snippets | GDSC LPU - blog',
         description:
-          'Snippets are code samples and quick tips that I have written. Explore and share them.',
+          'Learn about various Data Science, Web development, etc., subject matters within a very short amount of time with snippets.',
         image:
           'https://res.cloudinary.com/dckfb8ri8/image/upload/v1668099221/Blog/snippets_og_hmcdf2.jpg'
       },
